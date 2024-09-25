@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+a{
+   color:white;
+   padding-left: 40px;
+}
+a:hover{
+    color:yellow;
+}
+.container-fluid{
+    background-color: black;
+    padding: 20px;
+    
+
+}
+.space{
+    margin-left: 20px;
+    font-size: large;
+    margin-left: 20px;
+}
+.navbar-brand{
+    font-size: 250%;
+}
