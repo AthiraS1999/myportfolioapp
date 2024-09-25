@@ -17,23 +17,23 @@ const Navbar = () => {
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#"> <Link class="space"to='/'style={{textDecoration:'none'}}>Home</Link></a>
+          <a class="nav-link active" aria-current="page" href="#"> <Link to={'/'} style={{textDecoration:'none'}}>Home</Link></a>
          
         </li>
         <li class="nav-item">
-          <a  class="nav-link" href="#"> <Link class="space" to='/about' style={{textDecoration:'none'}}>AboutMe</Link></a>
+          <a  class="nav-link" href="#"> <Link  to={'/about'} style={{textDecoration:'none'}}>AboutMe</Link></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#"> <Link class="space" to='/qualification' style={{textDecoration:'none'}}>Qualification</Link></a>
+          <a class="nav-link" href="#"> <Link  to={'/qualification'} style={{textDecoration:'none'}}>Qualification</Link></a>
         </li>
          <li class="nav-item">
-          <a class="nav-link" href="#"> <Link class="space" to='/skill' style={{textDecoration:'none'}}>Skills</Link></a>
+          <a class="nav-link" href="#"> <Link  to={'/skill'} style={{textDecoration:'none'}}>Skills</Link></a>
         </li>
          <li class="nav-item">
-          <a class="nav-link" href="#"> <Link class="space" to='/services'style={{textDecoration:'none'}}>My Services</Link></a>
+          <a class="nav-link" href="#"> <Link to={'/services'} style={{textDecoration:'none'}}>My Services</Link></a>
           </li>
            <li class="nav-item">
-          <a class="nav-link" href="#"> <Link class="space" to='/testmonials'style={{textDecoration:'none'}}>Testmonials</Link></a>
+          <a class="nav-link" href="#"> <Link  to={'/testmonials'} style={{textDecoration:'none'}}>Testmonials</Link></a>
         </li>
        
       </ul>
