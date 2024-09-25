@@ -1,5 +1,18 @@
-.test h1{
+.test-title h1{
     gap: 30px;
     margin: 40px 170px;  
+    color: wheat;
+}
+.test{
+    gap: 30px;
+    margin: 40px 170px;  
+    color: wheat;
+}
+.text-body-secondary{
+    color: wheat;
+}
+.card-text2{
+    font-size: small;
+    text-align: right;
     color: wheat;
 }
