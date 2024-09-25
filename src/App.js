@@ -6,7 +6,7 @@ import About from './components/About';
 import Services from './components/Services';
 import Skill from './components/Skill';
 import Qualification from './components/Qualification';
-import Testmonial from './components/Testmonial';
+import Testmonial from './components/Testmonials';
 import { Routes,Route } from 'react-router-dom';
 
 
