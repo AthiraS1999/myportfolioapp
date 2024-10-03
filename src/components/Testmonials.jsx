@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap/dist/js/bootstrap.min.js'
 import '../components/Test.css'
 import testimage from'../../src/components/Reshma.jpg'
-import karu from'../../src/components/karu.jpg.png'
+import karu from'../../src/components/karnya.jpg'
 import sree from'../../src/components/sreejit.jpg'
 
 
